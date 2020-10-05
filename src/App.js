@@ -1,8 +1,8 @@
 import React from 'react';
-import {ImageCard} from "./exercises"
+import { IntroCard } from "./exercises"
 
 function App() {
-  return <ImageCard/>
+  return <IntroCard />
 }
 
 export default App;
