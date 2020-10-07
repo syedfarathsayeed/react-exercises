@@ -1,8 +1,8 @@
 import React from 'react';
-import { SubscribeCard } from "./exercises"
+import { HexadecimalColorTable } from "./exercises"
 
 function App() {
-  return <SubscribeCard />
+  return <HexadecimalColorTable />
 }
 
 export default App;

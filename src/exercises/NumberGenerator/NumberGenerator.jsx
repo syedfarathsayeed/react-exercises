@@ -2,10 +2,10 @@ import React from "react"
 import { Header } from "../../componentsUtils"
 import "./NumberGenerator.scss"
 
-const dataGenerator = () => {
+const dataGenerator = (len) => {
     let data = []
 
-    for (let i = 0; i < 32; i++) {
+    for (let i = 0; i < len; i++) {
         data.push(i)
     }
 
@@ -20,7 +20,7 @@ const isPrime = num => {
 
 const NumberGenerator = () => {
 
-    const numbers = dataGenerator()
+    const numbers = dataGenerator(32)
 
     const number = (num, className) => <div className={`item ${className}`}>{num}</div>
 
