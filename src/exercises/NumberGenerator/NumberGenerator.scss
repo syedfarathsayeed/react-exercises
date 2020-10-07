@@ -1,0 +1,37 @@
+.container {
+    width: 820px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: none;
+}
+.item {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: x-large;
+    border: white 0.2px solid;
+}
+.prime {
+    background: #F35555;
+}
+.even {
+    background: #5F9754;
+}
+.odd {
+    background: #E4E44A;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin: auto;
+    align-items: center;
+}
+p{
+    text-align: center;
+}
