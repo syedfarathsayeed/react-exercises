@@ -1,8 +1,8 @@
 import React from 'react';
-import { NumberGenerator } from "./exercises"
+import { SubscribeCard } from "./exercises"
 
 function App() {
-  return <NumberGenerator />
+  return <SubscribeCard />
 }
 
 export default App;
