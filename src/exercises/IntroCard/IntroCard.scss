@@ -8,6 +8,7 @@
     border-radius: 50%;
     height: 200px;
     width: 200px;
+    margin-right: 0px;
 }
 .chip{
     background-color: lightseagreen;
@@ -16,6 +17,7 @@
     border-radius: 5px;
     width: fit-content;
     margin-right: 5px;
+    margin-bottom: 5px;
 }
 .skills {
     display: flex;
@@ -23,6 +25,9 @@
 }
 h2, h5, h3{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h5 {
+    margin-top: 0px;;
 }
 h3 {
     color: gray;

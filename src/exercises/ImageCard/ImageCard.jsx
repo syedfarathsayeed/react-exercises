@@ -10,7 +10,6 @@ const ImageContainer = (logo, alt) => <img className="img" src={logo} alt={alt} 
 
 function ImageCard() {
     const description = "In this exercise, different images are displayed in a container"
-
     return (
         <>
             <Header title="Front End Technologies" description={description} />
