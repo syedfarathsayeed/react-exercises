@@ -1,4 +1,5 @@
 import React from "react"
+import { Header } from "../../componentsUtils"
 import "./NumberGenerator.scss"
 
 const dataGenerator = () => {
@@ -25,12 +26,9 @@ const NumberGenerator = () => {
 
     return (
         <>
-            <div className="header">
-                <h1>Number Generator</h1>
-                <p>In this exercise, numbers from 0-31 are displayed, such that odd numbers are in yellow, 
-                    even in green and prime in red color respectively</p>
-            </div>
-            
+            <Header title="Number Generator" 
+            description="In this exercise, numbers from 0-31 are displayed, such that odd numbers are in yellow, 
+            even in green and prime in red color respectively"/>
             <div className={"container"}>
                 {numbers.map(num => {
                     if (isPrime(num)) {

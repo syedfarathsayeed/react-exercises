@@ -1,8 +1,8 @@
 import React from 'react';
-import { IntroCard } from "./exercises"
+import { NumberGenerator } from "./exercises"
 
 function App() {
-  return <IntroCard />
+  return <NumberGenerator />
 }
 
 export default App;
