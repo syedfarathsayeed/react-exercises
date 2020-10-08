@@ -37,7 +37,7 @@ const HexadecimalColorTable = () => {
                 description="In this exercise, a random hexadecimal color table is developed as shown below" />
             <Container>
                 {getColors().map(color => (
-                <ColorContainer backgroundColor={color}>{color}</ColorContainer>
+                <ColorContainer key={color} backgroundColor={color}>{color}</ColorContainer>
                 ))}
             </Container>
         </>

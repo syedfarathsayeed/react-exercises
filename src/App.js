@@ -1,8 +1,8 @@
 import React from 'react';
-import { HexadecimalColorTable } from "./exercises"
+import { PopulationCard } from "./exercises"
 
 function App() {
-  return <HexadecimalColorTable />
+  return <PopulationCard />
 }
 
 export default App;
