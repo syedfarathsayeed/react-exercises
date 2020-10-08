@@ -18,6 +18,12 @@ This project includes simple react exercises.
 
 ![alt text](https://github.com/syedfarathsayeed/react-exercises/blob/master/src/resources/Screenshots/Numbers%20generator.jpeg)
 
+### Exercise 5
+
+![alt text](https://github.com/syedfarathsayeed/react-exercises/blob/master/src/resources/Screenshots/HexadecimalColor.jpeg)
 
 ### Exercise 5
-![alt text](https://github.com/syedfarathsayeed/react-exercises/blob/master/src/resources/Screenshots/HexadecimalColor.jpeg)
+
+![alt text](https://github.com/syedfarathsayeed/react-exercises/blob/master/src/resources/Screenshots/Population%20card.jpeg)
+
+
