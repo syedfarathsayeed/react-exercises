@@ -9,3 +9,5 @@ export { default as SubscribeCard } from "./SubscribeCard"
 export { default as HexadecimalColorTable } from "./HexadecimalColorTable"
 
 export { default as PopulationCard } from "./PopulationCard"
+
+export { default as Portfolio } from "./Portfolio"

@@ -1,8 +1,8 @@
 import React from 'react';
-import { PopulationCard } from "./exercises"
+import { Portfolio } from "./exercises"
 
 function App() {
-  return <PopulationCard />
+  return <Portfolio />
 }
 
 export default App;

@@ -3,7 +3,7 @@ import Photo from "../../resources/sfs.jpeg"
 import { Header } from "../../componentsUtils"
 import "./IntroCard.scss"
 
-const userData = {
+export const userData = {
     firstName: "Syed Farath",
     lastName: "Sayeed",
     skills: ["React JS", "TypeScript", "Redux", "CSS", "HTML",
