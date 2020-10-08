@@ -27,3 +27,6 @@ This project includes simple react exercises.
 ![alt text](https://github.com/syedfarathsayeed/react-exercises/blob/master/src/resources/Screenshots/Population%20card.jpeg)
 
 
+### Exercise 6
+
+![Change Background](https://github.com/syedfarathsayeed/react-exercises/blob/master/src/resources/Screenshots/Change%20mode.gif)
