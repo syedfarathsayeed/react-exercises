@@ -32,4 +32,10 @@ This project includes simple react exercises.
 
 ### Exercise 7
 
+![Change Background](https://github.com/syedfarathsayeed/react-exercises/blob/master/src/resources/Screenshots/Holiday%20destination.gif)
+
+### Exercise 8
+
 ![Change Background](https://github.com/syedfarathsayeed/react-exercises/blob/master/src/resources/Screenshots/TimesOfDay.jpeg)
+
+
