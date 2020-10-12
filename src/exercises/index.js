@@ -13,3 +13,5 @@ export { default as PopulationCard } from "./PopulationCard"
 export { default as Portfolio } from "./Portfolio"
 
 export { default as HolidayDestination } from "./HolidayDestination"
+
+export { default as TimesOfDay } from "./TimesOfDay"

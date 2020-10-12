@@ -1,8 +1,8 @@
 import React from 'react';
-import { HolidayDestination } from "./exercises"
+import { TimesOfDay } from "./exercises"
 
 function App() {
-  return <HolidayDestination />
+  return <TimesOfDay />
 }
 
 export default App;
