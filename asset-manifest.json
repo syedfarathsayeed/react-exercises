@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cea34de8.chunk.css",
+    "main.js": "/static/js/main.f9587d15.chunk.js",
+    "main.js.map": "/static/js/main.f9587d15.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9ae79203.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9ae79203.js.map",
+    "static/js/2.268ef0c9.chunk.js": "/static/js/2.268ef0c9.chunk.js",
+    "static/js/2.268ef0c9.chunk.js.map": "/static/js/2.268ef0c9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cea34de8.chunk.css.map": "/static/css/main.cea34de8.chunk.css.map",
+    "static/js/2.268ef0c9.chunk.js.LICENSE.txt": "/static/js/2.268ef0c9.chunk.js.LICENSE.txt",
+    "static/media/Evening.4142f4bf.jpeg": "/static/media/Evening.4142f4bf.jpeg",
+    "static/media/Night.d75ee865.jpg": "/static/media/Night.d75ee865.jpg",
+    "static/media/Noon.91332f9c.jpg": "/static/media/Noon.91332f9c.jpg",
+    "static/media/angular_logo.2aeaa5ba.png": "/static/media/angular_logo.2aeaa5ba.png",
+    "static/media/morning.c61b2b06.jpg": "/static/media/morning.c61b2b06.jpg",
+    "static/media/react_logo.20adfb35.png": "/static/media/react_logo.20adfb35.png",
+    "static/media/sfs.7e3af1e5.jpeg": "/static/media/sfs.7e3af1e5.jpeg",
+    "static/media/vue_js_logo.b9514adc.png": "/static/media/vue_js_logo.b9514adc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ae79203.js",
+    "static/js/2.268ef0c9.chunk.js",
+    "static/css/main.cea34de8.chunk.css",
+    "static/js/main.f9587d15.chunk.js"
+  ]
+}
