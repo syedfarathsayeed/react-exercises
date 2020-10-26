@@ -1,17 +1,19 @@
-export { default as ImageCard } from "./ImageCard"
+export { default as Countries } from "./Countries";
 
-export { default as IntroCard } from "./IntroCard"
+export { default as ImageCard } from "./ImageCard";
 
-export { default as NumberGenerator } from "./NumberGenerator"
+export { default as IntroCard } from "./IntroCard";
 
-export { default as SubscribeCard } from "./SubscribeCard"
+export { default as NumberGenerator } from "./NumberGenerator";
 
-export { default as HexadecimalColorTable } from "./HexadecimalColorTable"
+export { default as SubscribeCard } from "./SubscribeCard";
 
-export { default as PopulationCard } from "./PopulationCard"
+export { default as HexadecimalColorTable } from "./HexadecimalColorTable";
 
-export { default as Portfolio } from "./Portfolio"
+export { default as PopulationCard } from "./PopulationCard";
 
-export { default as HolidayDestination } from "./HolidayDestination"
+export { default as Portfolio } from "./Portfolio";
 
-export { default as TimesOfDay } from "./TimesOfDay"
+export { default as HolidayDestination } from "./HolidayDestination";
+
+export { default as TimesOfDay } from "./TimesOfDay";
