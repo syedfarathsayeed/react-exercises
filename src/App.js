@@ -1,8 +1,37 @@
 import React from "react";
-import { TimesOfDay } from "./exercises";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import {
+  Countries,
+  HexadecimalColorTable,
+  HolidayDestination,
+  ImageCard,
+  IntroCard,
+  NumberGenerator,
+  PopulationCard,
+  Portfolio,
+  SubscribeCard,
+  TimesOfDay,
+} from "./exercises";
+import Mainscene from "./Mainscene";
 
 function App() {
-  return <TimesOfDay />;
+  return (
+    <Router basename="/">
+      <Switch>
+        <Route exact path="/" component={Mainscene} />
+        <Route path="/exercise-1" component={ImageCard} />
+        <Route path="/exercise-2" component={IntroCard} />
+        <Route path="/exercise-3" component={SubscribeCard} />
+        <Route path="/exercise-4" component={NumberGenerator} />
+        <Route path="/exercise-5" component={HexadecimalColorTable} />
+        <Route path="/exercise-6" component={PopulationCard} />
+        <Route path="/exercise-7" component={Portfolio} />
+        <Route path="/exercise-8" component={HolidayDestination} />
+        <Route path="/exercise-9" component={TimesOfDay} />
+        <Route path="/exercise-10" component={Countries} />
+      </Switch>
+    </Router>
+  );
 }
 
 export default App;
