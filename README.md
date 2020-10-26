@@ -39,3 +39,8 @@ This project includes simple react exercises.
 ![Change Background](https://github.com/syedfarathsayeed/react-exercises/blob/master/src/resources/Screenshots/TimesOfDay.jpeg)
 
 
+# Note
+
+All other exercises could be found on this link [react-exercises](https://react-exercises.herokuapp.com/)
+
+

@@ -14,6 +14,8 @@ import {
 } from "./exercises";
 import Mainscene from "./Mainscene";
 
+const NotFound = () => <h1>Page not found</h1>
+
 function App() {
   return (
     <Router basename="/">
@@ -29,6 +31,7 @@ function App() {
         <Route path="/exercise-8" component={HolidayDestination} />
         <Route path="/exercise-9" component={TimesOfDay} />
         <Route path="/exercise-10" component={Countries} />
+        <Route component={NotFound} />
       </Switch>
     </Router>
   );
