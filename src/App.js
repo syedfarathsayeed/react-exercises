@@ -1,8 +1,8 @@
 import React from "react";
-import { Countries } from "./exercises";
+import { TimesOfDay } from "./exercises";
 
 function App() {
-  return <Countries />;
+  return <TimesOfDay />;
 }
 
 export default App;
